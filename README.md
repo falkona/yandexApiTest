@@ -18,8 +18,8 @@
 Далее тесты запускают стандартными командами, с формированием отчета Allure
  
 ```
-gradlew clean test allureReport 
-gradlew allureServe
+gradle clean test allureReport 
+gradle allureServe
 ```
 
 ### Дополнительные замечания
